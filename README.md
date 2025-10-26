@@ -207,3 +207,26 @@ Here are a few popular ones:
 
 **Why It’s Useful for Wireframing:**
 Figma simplifies the wireframing process by allowing quick sketching, layout creation, and feedback integration — all in one platform. It bridges the gap between **low-fidelity wireframes** and **high-fidelity prototypes**, making it ideal for both beginners and professional teams.
+
+## Real-World Scenario: Wireframing in Action
+
+In a **real-world e-commerce web project**, the design team used wireframes during the early design phase to visualize the flow of the **checkout process**. Initially, users had to go through **five separate pages** to complete their purchase, which was later identified as a potential usability issue during the wireframing stage.
+
+### Identified Usability Issues
+- The checkout process required too many steps, risking high **cart abandonment rates**.
+- Users struggled to locate the **"Continue Shopping"** and **"Apply Coupon"** buttons due to poor placement.
+- The **address and payment forms** appeared on different pages, leading to confusion and delays.
+
+### How the Issues Were Resolved
+- The design team combined multiple pages into a **single-page checkout wireframe**, streamlining the process.
+- Buttons were **relocated and labeled more clearly**, ensuring users could easily navigate and apply discounts.
+- **Field grouping and visual hierarchy** were improved, allowing smoother form completion.
+
+### Impact on the Final Product
+After implementing the refined wireframe, user testing showed:
+- A **30% decrease in cart abandonment**.
+- **Improved checkout completion rate**.
+- **Higher customer satisfaction** due to a cleaner, more intuitive design.
+
+### Conclusion
+Wireframing played a critical role in identifying and resolving usability issues **before** development began. By visualizing the user journey early, the design team saved time, reduced development costs, and delivered a **user-friendly final product**.
