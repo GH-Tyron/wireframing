@@ -182,3 +182,28 @@ During the **design refinement stage**, before transitioning into prototype deve
 | Join Page | Low-Fidelity Wireframe | Sketch showing registration form layout, focusing on structure rather than style. |
 | Home Page | High-Fidelity Wireframe | Includes colors, icons, and visual design showing the main interface of the app with navigation and featured listings. |
 | Detail Page | High-Fidelity Wireframe | Displays complete visual styling and structure of a single property or item detail view, ready for prototype linking. |
+
+## 🧰 Popular Wireframing Tools
+
+There are several tools available for creating wireframes, ranging from simple sketch-based tools to advanced collaborative design platforms.  
+
+Here are a few popular ones:
+
+- **Figma:** A cloud-based design and prototyping tool that allows real-time collaboration between designers and developers.  
+- **Adobe XD:** Offers vector-based design and prototyping with interactive elements.  
+- **Sketch:** A macOS-based design tool widely used for creating UI wireframes and mockups.  
+- **Balsamiq:** Focuses on quick, low-fidelity wireframing for early design brainstorming.  
+- **Miro:** Ideal for collaborative brainstorming and creating visual wireframes in workshops.  
+
+### 💎 Why Figma is Recommended
+**Figma** is one of the most powerful and widely used tools for wireframing and prototyping because of its flexibility, collaboration features, and intuitive interface.
+
+**Key Features:**
+- **Real-Time Collaboration:** Multiple users can edit and comment on a design simultaneously.  
+- **Cloud-Based Storage:** Access your projects from any device without installations.  
+- **Component Reusability:** Create reusable components for consistency across screens.  
+- **Interactive Prototyping:** Link frames and simulate user flows easily.  
+- **Design Systems:** Build and manage typography, color styles, and UI elements efficiently.  
+
+**Why It’s Useful for Wireframing:**
+Figma simplifies the wireframing process by allowing quick sketching, layout creation, and feedback integration — all in one platform. It bridges the gap between **low-fidelity wireframes** and **high-fidelity prototypes**, making it ideal for both beginners and professional teams.
